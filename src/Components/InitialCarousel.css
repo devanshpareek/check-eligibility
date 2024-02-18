@@ -1,0 +1,11 @@
+.initial-carousel {
+    /* margin-top: 5vh;
+    margin-left: 5vw; */
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    background-image: url('../Images/domsLight.jpg');
+    background-position: center;
+    background-size: cover;
+    /* border-radius: 2vw; */
+}

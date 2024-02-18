@@ -1,0 +1,7 @@
+.home {
+    background-image: url('../Images/backgroundImage.jpg');
+    min-height: 100vh;
+    display: flex;
+    background-position: center;
+    background-size: cover;
+}
